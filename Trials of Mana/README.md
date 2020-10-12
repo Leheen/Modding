@@ -1,4 +1,6 @@
-# How to use it?
+# Usage
+Script used to correcty export Trials of Mana models
+
 First of all, you need to export the models in PSK and glTF with Umodel
 
 ## Blender
@@ -19,13 +21,12 @@ Import the fbx inside Unreal Engine with the following settings:
 ![Import FBX](img/02-import-fbx-1.jpg)
 
 NB: for Duran and Hawkeye, you must use these settings if you don't want weird hair:
-
-![Import FBX](img/02-import-fbx-2.jpg)
+- Import Normals
+- Built In
 
 
 # Credit
 Script used to make the following mod:
-https://www.nexusmods.com/trialsofmana/mods/110
-
+[SNES Character Pack](https://www.nexusmods.com/trialsofmana/mods/110)
 
 If you use this script for making a mod, please credit me.
